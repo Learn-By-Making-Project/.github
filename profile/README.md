@@ -31,7 +31,7 @@ Members can create private projects for focused collaboration.
 * Request to join or propose a project
 * Use **GitHub Issues** and **Discussions** to communicate
 * Ask questions, suggest ideas, and contribute
-* Follow our [Code of Conduct](./CODE_OF_CONDUCT.md)
+* Follow our [Code of Conduct](./../CODE_OF_CONDUCT.md)
 
 ## 📏 Community Guidelines
 
